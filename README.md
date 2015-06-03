@@ -1,2 +1,2 @@
 # Uva
-Some Problems solutions :D
+Some of My solutions :D
